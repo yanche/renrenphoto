@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^11.6.2"
+    "@belongs/asyncutil": "0.0.1",
+    "@types/jsdom": "^11.0.4",
+    "@types/mkdirp": "^0.5.2",
+    "@types/node": "^9.6.1",
+    "jsdom": "^11.6.2",
+    "mkdirp": "^0.5.1"
   }
 }

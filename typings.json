@@ -1,6 +1,0 @@
-{
-  "name": "thzcrawler",
-  "dependencies": {
-    "jsdom": "registry:dt/jsdom#2.0.0+20170213061622"
-  }
-}
